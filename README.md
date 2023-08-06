@@ -41,7 +41,7 @@ media.mar
 
 PROGRAM CALCULA-MEDIA-SIMPLES
          WITH INPUT   N1 NUMBER
-                      N2 NUMBER
+         WITH INPUT   N2 NUMBER
          WITH OUTPUT  MEDIA    NUMBER
 
     PROCEDURE MAIN
