@@ -1,5 +1,5 @@
 # marcus-lang
-Uma lingaguem inspirada nas linguagens NATURAL e COBOL que compila para JavaScript.
+Uma linguagem de programação, inspirada nas linguagens NATURAL e COBOL, que compila para JavaScript.
 No futuro será possível criar microserviços em Marcus executados pelo nodejs.
 
 
