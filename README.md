@@ -7,7 +7,7 @@ No futuro será possível criar microserviços em Marcus, que vão rodar em node
 
 busca-pacientes.mar
 
-```cobol
+```pascal
 
 PROGRAM BUSCA-PACIENTES
             WITH-INPUT       T-ENTRADA
