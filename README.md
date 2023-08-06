@@ -3,7 +3,22 @@ Uma linguagem de programação, inspirada nas linguagens NATURAL e COBOL, que co
 No futuro será possível criar microserviços em Marcus executados pelo nodejs.
 
 
-# Exemplo 
+# Exemplos 
+
+ola-mundo.mar
+
+```pascal
+
+PROGRAM OLA-MUNDO
+
+    PROCEDURE MAIN
+        PRINT "Olá Mundo!" 
+    END-PROCEDURE 
+
+END-PROGRAM
+
+```
+
 
 busca-pacientes.mar
 
