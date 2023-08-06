@@ -19,6 +19,26 @@ END-PROGRAM
 
 ```
 
+ola-mundo-input.mar
+
+```pascal
+
+PROGRAM OLA-MUNDO-INPUT
+            WITH-INPUT T-ENTRADA
+
+   TYPE T-ENTRADA
+       VAR NOME STRING
+   END-TYPE
+
+   PROCEDURE MAIN
+       PRINT "Olá ${NOME}!"
+   END-PROCEDURE
+
+END-PROGRAM
+
+
+```
+
 
 busca-pacientes.mar
 
